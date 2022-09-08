@@ -1,0 +1,3 @@
+﻿  KiesJeCadeau.cpp
+D:\software\C++\KiesJeCadeau\KiesJeCadeau.cpp(98,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  KiesJeCadeau.vcxproj -> D:\software\C++\4opeenrij\x64\Debug\KiesJeCadeau.exe
